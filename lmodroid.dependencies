@@ -1,9 +1,11 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_hardware_motorola",
     "target_path": "hardware/motorola"
   },
   {
+    "remote": "lineage",
     "repository": "android_kernel_motorola_sm6225",
     "target_path": "kernel/motorola/sm6225"
   }
