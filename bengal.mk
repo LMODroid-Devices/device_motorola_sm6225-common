@@ -375,7 +375,6 @@ PRODUCT_PACKAGES += \
 # Rootdir
 PRODUCT_PACKAGES += \
     init.class_main.sh \
-    init.mdm.sh \
     init.mmi.boot.sh \
     init.mmi.laser.sh \
     init.mmi.touch.sh \
@@ -390,7 +389,6 @@ PRODUCT_PACKAGES += \
     init.mmi.dalvik.rc \
     init.mmi.debug.rc \
     init.mmi.rc \
-    init.qcom.factory.rc \
     init.qcom.rc \
     init.recovery.qcom.rc \
     init.target.rc \
